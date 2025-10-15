@@ -1,0 +1,5 @@
+{
+  "name": "VisionEdge",
+  "description": "AI-powered analysis of environmental data and satellite imagery for anomaly detection.",
+  "requestFramePermissions": []
+}
