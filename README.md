@@ -86,11 +86,12 @@ The system is designed with three core, interconnected layers:
 
 Instructions for setting up the project locally will be added here.
 
-```
+
 View interactive mockup designing or use the repository index.html 
-,,, 
-🤝 Contributing
+
+---
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome! For significant contributions, please open an issue first to discuss what you would like to change.
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-,,, 
+### 📜 License
+**This project is licensed under the MIT License. See the LICENSE file for details.**
+---
