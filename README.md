@@ -1,4 +1,5 @@
 # VisionEdge Tool🌍🛰️
+![VE logo](logo.gif)
 ## For AirGuard Mobile App
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Issues](https://img.shields.io/github/issues/aimtyaem/visionedge)
